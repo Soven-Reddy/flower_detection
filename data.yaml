@@ -1,0 +1,11 @@
+path: flowers  # base path to your data directory (optional)
+train: C:/AmritaFiles/CNN project/datasets/images/train
+val: C:/AmritaFiles/CNN project/datasets/images/val
+
+
+names:
+  0: daisy
+  1: dandelion
+  2: rose
+  3: sunflower
+  4: tulip
